@@ -8,3 +8,4 @@ models:
       name: AMCOI25
       residualLimbName: "femur_r"
       distalProstheticName: "walker_knee_r"
+      outputFileName: "test_file_output.py"
