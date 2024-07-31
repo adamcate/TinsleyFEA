@@ -1,0 +1,10 @@
+---
+# contains the root directory for all OI files
+root_path:  "C:/Users/jake/OneDrive/Documents/Jake/Academia/Graduate School/Research/Osseointegration/Methodv12/"
+
+# contains the list of models to process
+models:
+  - data:
+      name: AMCOI25
+      residualLimbName: "femur_r"
+      distalProstheticName: "walker_knee_r"
